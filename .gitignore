@@ -1,3 +1,7 @@
 /default.properties
 /gen
 /assets
+/bin
+.classpath
+.project
+/.settings
